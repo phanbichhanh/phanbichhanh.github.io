@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "6A784YN7BU.lichtet2016"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {"/": "/*"}
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "6A784YN7BU.lichtet2016"
+        ]
+    }
+}
